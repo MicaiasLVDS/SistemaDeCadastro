@@ -1,0 +1,1 @@
+flutter create --project-name firebase --platforms android,web
